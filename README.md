@@ -15,3 +15,4 @@ A room temperature checker whose initial function. tbh this project especially f
 - 1x I2c display
 - 1x smoke sensor
 - jumper wires
+## ![photo](https://cache.paltena.com/base/1280x892/96c93cfb-bede-4a17-bdcc-3311918ebdbd.webp) 
