@@ -14,5 +14,6 @@ A room temperature checker whose initial function. tbh this project especially f
 - 1x light sensor
 - 1x I2c display
 - 1x smoke sensor
-- jumper wires
+- jumper wires 
 ## ![photo](https://cache.paltena.com/base/1280x892/96c93cfb-bede-4a17-bdcc-3311918ebdbd.webp) 
+> The photo above is not related to what i doing because many sensors are not available in either Wokwi or tinkercad bt this is for informational
