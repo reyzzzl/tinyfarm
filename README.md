@@ -18,7 +18,7 @@ A room temperature checker whose initial function. tbh this project especially f
 ## ![photo](https://cache.paltena.com/base/1280x892/96c93cfb-bede-4a17-bdcc-3311918ebdbd.webp) 
 > The photo above is not related to what i doing because many sensors are not available in either Wokwi or tinkercad bt this is for informational
 
-# | DS18B20 | ESP32 |
+| DS18B20 | ESP32 |
 |---------|-------|
 | VCC | 3.3V |
 | GND | GND |
