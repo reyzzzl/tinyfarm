@@ -18,9 +18,37 @@ A room temperature checker whose initial function. tbh this project especially f
 ## ![photo](https://cache.paltena.com/base/1280x892/96c93cfb-bede-4a17-bdcc-3311918ebdbd.webp) 
 > The photo above is not related to what i doing because many sensors are not available in either Wokwi or tinkercad bt this is for informational
 
+# DS18B20
 | DS18B20 | ESP32 |
 |---------|-------|
 | VCC | 3.3V |
 | GND | GND |
 | DATA | GPIO 18 |
-| DATA ↔ VCC |
+
+# smoke sensor
+| Sensor | ESP32 |
+|--------|-------|
+| VCC | 5V |
+| GND | GND |
+| DOUT | GPIO 16 |
+
+# buzzer
+| Buzzer | ESP32 |
+|--------|-------|
+| + | GPIO 2 |
+| - | GND |
+
+# LCD I2c
+| LCD | ESP32 |
+|-----|-------|
+| VCC | 5V |
+| GND | GND |
+| SDA | GPIO 21 |
+| SCL | GPIO 22 |
+
+# infrared sensor
+| Sensor | ESP32 |
+|--------|-------|
+| VCC | 3.3V |
+| GND | GND |
+| DOUT | GPIO 4 |
