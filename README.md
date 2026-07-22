@@ -18,6 +18,17 @@ A room temperature checker whose initial function. tbh this project especially f
 ## ![photo](https://cache.paltena.com/base/1280x892/96c93cfb-bede-4a17-bdcc-3311918ebdbd.webp) 
 > The photo above is not related to what i doing because many sensors are not available in either Wokwi or tinkercad bt this is for informational
 
+## firmware build & flashing instructions
+
+1. Install [Arduino IDE](https://www.arduino.cc/en/software) or use VS Code with PlatformIO.
+2. add ESP32 Board URL to Preferences: `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
+3. Install required libraries via Library Manager:
+   - `OneWire`
+   - `DallasTemperature`
+   - `LiquidCrystal_I2C`
+4. Select **ESP32 Dev Module** as the board and pick your COM port.
+5. **upload!!!**
+
 # DS18B20
 | DS18B20 | ESP32 |
 |---------|-------|
