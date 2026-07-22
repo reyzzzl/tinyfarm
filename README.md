@@ -22,11 +22,11 @@ A room temperature checker whose initial function. tbh this project especially f
 
 1. Install [Arduino IDE](https://www.arduino.cc/en/software) or use VS Code with PlatformIO.
 2. add ESP32 Board URL to Preferences: `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
-3. Install required libraries via Library Manager:
-   - `OneWire`
-   - `DallasTemperature`
-   - `LiquidCrystal_I2C`
-4. Select **ESP32 Dev Module** as the board and pick your COM port.
+3. install required libraries via Library Manager:
+- OneWire
+- DallasTemperature
+- LiquidCrystal_I2C
+4. Select ESP32 Dev Module as the board and pick your COM port.
 5. **upload!!!**
 
 # DS18B20
