@@ -5,7 +5,7 @@
 ![prog](https://img.shields.io/badge/Macondo-green.svg)
 # What is that?? 
 A room temperature checker whose initial function. tbh this project especially for maggot cultivation and automatically controlling the lights at night, then there is also a room temperature sensor that will be connected to a fan when the conditions inside are very humid
-## ![photo](https://i.imgur.com/vCoHjpQ.jpeg) 
+## ![photo](https://user-cdn.hackclub-assets.com/019f87c9-898f-7c91-a521-dd761bbdac52/1000571051.jpg) 
 # tools and materials
 - 1x ESP32 dev module
 - 1x buzzer
