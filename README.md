@@ -66,6 +66,6 @@ A room temperature checker whose initial function. tbh this project especially f
 
 ## Thanks for
 <p align="left">
-  <img src="https://assets.hackclub.com/flag-standalone.svg" width="120" style="display:inline-block; margin-right:10px;" />
   <img src="https://assets.hackclub.com/icon-square.svg" width="120" style="display:inline-block; margin-right:10px;" />
-</p> 
+  <img src="https://assets.hackclub.com/flag-standalone.svg" width="120" style="display:inline-block; margin-right:10px;" />
+</p>
