@@ -63,3 +63,6 @@ A room temperature checker whose initial function. tbh this project especially f
 | VCC | 3.3V |
 | GND | GND |
 | DOUT | GPIO 4 |
+
+## Thanks for
+## ![photo](https://assets.hackclub.com/flag-standalone.svg)![photo](https://assets.hackclub.com/icon-square.svg) 
