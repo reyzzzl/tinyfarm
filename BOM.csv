@@ -1,0 +1,8 @@
+Item No,Component Name,Description,Quantity,Designator / Reference,Estimated Price (USD),Notes / Remarks
+1,ESP32 Development Board,ESP-WROOM-32 Wi-Fi + Bluetooth Dual-Core Microcontroller Board,1,MCU1,$4.50,Main microcontroller unit
+2,ESP32 Expansion Board / Shield,Terminal Block Expansion Adapter Board for ESP32 DevKit,1,SHIELD1,$2.50,Provides screw terminals/pins for easier wiring
+3,LCD Display 16x2 with I2C Module,1602 Character LCD Module with PCF8574 I2C Backpack Board,1,DISP1,$3.00,I2C address usually 0x27 or 0x3F
+4,DS18B20 Waterproof Temperature Sensor,Stainless Steel Probe Waterproof DS18B20 Sensor with Adapter Module,1,SENS1,$3.50,1-Wire digital temperature probe
+5,LDR Light Sensor Module,Photoresistor Light Detection Module with LM393 Comparator,1,SENS2,$1.00,Digital / Analog output for ambient light detection
+6,DuPont Jumper Wires,Multi-color Male-to-Female & Female-to-Female Jumper Wires (20cm),15,WIRE1-15,$1.50,Signal and power connections
+7,Micro USB Cable,Data & Power Cable for ESP32 board,1,PWR1,$1.50,5V Power supply & serial flashing
