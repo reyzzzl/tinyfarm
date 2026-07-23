@@ -1,8 +1,10 @@
-Item No,Component Name,Description,Quantity,Designator / Reference,Estimated Price (USD),Notes / Remarks
-1,ESP32 Development Board,ESP-WROOM-32 Wi-Fi + Bluetooth Dual-Core Microcontroller Board,1,MCU1,$4.50,Main microcontroller unit
-2,ESP32 Expansion Board / Shield,Terminal Block Expansion Adapter Board for ESP32 DevKit,1,SHIELD1,$2.50,Provides screw terminals/pins for easier wiring
-3,LCD Display 16x2 with I2C Module,1602 Character LCD Module with PCF8574 I2C Backpack Board,1,DISP1,$3.00,I2C address usually 0x27 or 0x3F
-4,DS18B20 Waterproof Temperature Sensor,Stainless Steel Probe Waterproof DS18B20 Sensor with Adapter Module,1,SENS1,$3.50,1-Wire digital temperature probe
-5,LDR Light Sensor Module,Photoresistor Light Detection Module with LM393 Comparator,1,SENS2,$1.00,Digital / Analog output for ambient light detection
-6,DuPont Jumper Wires,Multi-color Male-to-Female & Female-to-Female Jumper Wires (20cm),15,WIRE1-15,$1.50,Signal and power connections
-7,Micro USB Cable,Data & Power Cable for ESP32 board,1,PWR1,$1.50,5V Power supply & serial flashing
+item No,component name,description,quantity,designator / ref,estimated price, link,remarks
+1,ESP32 Development Board,ESP-WROOM-32 Wi-Fi + Bluetooth Dual-Core Microcontroller Board,1,MCU1,$4.50,https://www.tokopedia.com/search?q=ESP32+DevKit+V1+ESP-WROOM-32,Main microcontroller unit
+2,ESP32 Expansion Board / Shield,Terminal Block Expansion Adapter Board for ESP32 DevKit,1,SHIELD1,$2.50,https://www.tokopedia.com/search?q=ESP32+Expansion+Board+Terminal,Provides screw terminals/pins for easier wiring
+3,LCD Display 16x2 with I2C Module,1602 Character LCD Module with PCF8574 I2C Backpack Board,1,DISP1,$3.00,https://www.tokopedia.com/search?q=LCD+1602+I2C+Module,I2C address usually 0x27 or 0x3F
+4,DS18B20 Waterproof Temperature Sensor,Stainless Steel Probe Waterproof DS18B20 Sensor with Adapter Module,1,SENS1,$3.50,https://www.tokopedia.com/search?q=DS18B20+Waterproof+Probe,1-Wire digital temperature probe
+5,Smoke Sensor (MQ-2),MQ-2 Gas and Smoke Detection Module,1,SENS2,$1.50,https://www.tokopedia.com/search?q=MQ-2+Gas+Smoke+Sensor+Module,Analog and digital output for gas/smoke
+6,LDR Light / Infrared Sensor Module,Light / Infrared Detection Module with LM393 Comparator,1,SENS3,$1.00,https://www.tokopedia.com/search?q=Modul+Sensor+Cahaya+LDR+LM393,Digital / Analog output for ambient light detection
+7,5V Relay Module,Relay Module for Fan Control,1,RLY1,$1.00,https://www.tokopedia.com/search?q=Modul+Relay+5V+1+Channel,Used to switch high-power fan
+8,Active / Passive Buzzer,5V Piezoelectric Buzzer Module,1,BZ1,$0.50,https://www.tokopedia.com/search?q=Active+Buzzer+Module+5V,Audio alarm notification
+9,DuPont Jumper Wires,Multi-color Male-to-Female & Female-to-Female Jumper Wires (20cm),1 set,WIRE1,$1.50,https://www.tokopedia.com/search?q=Kabel+Jumper+DuPont+20cm,Signal and power connections
